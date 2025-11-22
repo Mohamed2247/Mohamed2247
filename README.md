@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mohamed Hamdy, a passionate Front-End Developer based in Giza, Egypt. I specialize in:<br><br>✅ HTML, CSS, JavaScript<br><br>✅ Bootstrap & Tailwind CSS & Firebase<br><br>✅ Responsive Design, Multi-language UI, Cross-Browser Compatibility<br><br>🎓 I’m a graduate of the National Telecommunication Institute (NTI), where I worked on real-world projects including job portal websites, authentication systems, and fully responsive multi-language platforms.F
+I'm Mohamed Hamdy, a passionate Front-End Developer based in Giza, Egypt. I specialize in:<br><br>✅ HTML, CSS, JavaScript<br><br>✅ Bootstrap & Tailwind CSS & Firebase<br><br>✅ Responsive Design, Multi-language UI, Cross-Browser Compatibility<br><br>🎓 I’m a graduate of the National Telecommunication Institute (NTI), where I worked on real-world projects including job portal websites, authentication systems, and fully responsive multi-language platforms.
 
 
 ## 🌐 Socials:
